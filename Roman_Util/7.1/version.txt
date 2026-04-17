@@ -1,0 +1,7 @@
+The version of this module as a whole
+7.0   2026-03-20 (starting with 7 in order to get a function moved out of another module to show as the highest version when from this module)
+7.1   2026-03-21
+	Get-ModuleCommand 2.0
+	Get-FolderSize 2.0
+	Get-CredentialWithPrompt 1.0
+	Open-FunctionFolder 1.0
